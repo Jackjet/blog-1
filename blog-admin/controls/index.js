@@ -1,0 +1,5 @@
+exports.user = require('./user')
+exports.article = require('./article')
+exports.img = require('./qiniu')
+exports.tag = require('./tag')
+exports.friends = require('./friends')
